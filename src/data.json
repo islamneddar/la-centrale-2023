@@ -1,0 +1,22 @@
+{
+  "contacts" : {
+    "firstName" : "chris",
+    "lastName" : "dupony",
+    "email" : "test@gmail.com",
+    "phone" : {
+      "value" : "06070890"
+    }
+  },
+  "creationData" : "2020-01-09T09:02:22:610Z",
+  "price" : 43000,
+  "publicationOptions" : ["STRENGTHS", "BOOST_VO"],
+  "refernce" : "B3005362",
+  "vehicle": {
+    "make" : "HONDA",
+    "model" : "CR-V",
+    "version" : "IV.....",
+    "category" : "SUV....",
+    "registerNumber" : "AA123AA",
+    "mileage" : 100000
+  }
+}
